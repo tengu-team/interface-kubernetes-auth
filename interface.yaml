@@ -1,0 +1,3 @@
+name: kubernetes-auth
+summary: Provides access to a Kubernetes cluster
+version: 1
